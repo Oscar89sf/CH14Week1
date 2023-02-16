@@ -1,0 +1,54 @@
+h2,
+h3,
+h5,
+h6 {
+  font-family: "Courier New", Courier, monospace;
+  background-color: rgb(100, 145, 119);
+  color: #ffffff;
+}
+
+p:hover {
+  background-color: rgb(245, 245, 245);
+}
+p {
+  font-size: 20px;
+  color: #2e8b57;
+}
+ul {
+  color: rgb(57, 55, 55);
+}
+li {
+  color: #317991;
+}
+.trial {
+  color: #6b8e23;
+}
+.demo {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+div {
+  text-align: right;
+}
+p.random {
+  text-align: right;
+}
+a {
+  text-decoration: none;
+  color: rgb(42, 230, 123);
+}
+/* .email {
+  text-align: right;
+} not in use*/
+h6 {
+  font-size: 15px;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+.glue {
+  padding: 15px;
+  margin-bottom: 15px;
+  position: sticky;
+  top: 0px;
+}
